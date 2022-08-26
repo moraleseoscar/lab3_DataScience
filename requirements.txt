@@ -1,0 +1,5 @@
+statsmodels==0.13.2
+statsmodels==0.13.2
+xlrd
+openpyxl
+tensorflow_datasets==4.6.0
